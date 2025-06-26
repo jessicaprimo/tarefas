@@ -1,0 +1,8 @@
+Fernanda|lavar a louça|Média
+Fernanda|afzer liçãp|Alta
+João|oi|Média
+João|oi|Baixa
+João|lavar a louça|Média
+João|lavar a louça|Média
+João|trabalho do prof humberto maravilhoso|Alta
+João|fazer almoço|Baixa
